@@ -2,7 +2,7 @@
 
 Personal portfolio website showcasing my projects, skills, and experience as I prepare for placements in Data Analyst and Software Engineering roles.
 
-🔗 **Live site:** [prakash-365code.github.io/Portfolio](https://prakash-365code.github.io/Portfolio/)
+🔗 **Live site:** [prakash-365code.github.io/Portfolio2](https://prakash-365code.github.io/Portfolio2/)
 
 ## About
 

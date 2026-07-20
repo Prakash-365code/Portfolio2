@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://prakash-365code.github.io/Portfolio/sitemap.xml
+Sitemap: https://prakash-365code.github.io/Portfolio2/sitemap.xml
