@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://prakash-365code.github.io/Portfolio/sitemap.xml
